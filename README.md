@@ -50,7 +50,9 @@ endmodule
 ![image](https://user-images.githubusercontent.com/118708245/234779222-f63d5402-9471-4404-b264-9a6829925451.png)
 
 ## Timing Diagram
+![image](https://github.com/Jeevithaelumalai/Experiment--02-Implementation-of-combinational-logic-/assets/118708245/142c239d-1813-4b23-b520-58c42a51d251)
 
+## Truth Table:
 ![Uploading image.png…]()
 
 ## Result:
